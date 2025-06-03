@@ -1,16 +1,17 @@
-## Hi there 👋
+# 👋 ¡Hola! Soy Luis, 
+Soy un apasionado desarrollador de software con experiencia en proyectos como el desarrollo web, moviles y aplicaciones.
 
-<!--
-**luiguiRr/LuiguiRr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🧠 Tecnologías
+Realmente me gusta experimentar nuevos retos y manejo de diferentes tecnologías
+- 🖥️ HTML, CSS, JavaScript, React
+- 🧰 Node.js, MongoDB, SQL Server
+- 📦 Git, GitHub, Docker
+- 🧪 Python, OpenCV, YOLO
 
-Here are some ideas to get you started:
+## 📂 Proyectos destacados
+A lo largo que desarrollado diferentes proyectos con mi anterior usuario que di mis primeros pasos
+https://github.com/luiguiRA?tab=repositories
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Contacto
+- Email: rocha.luis1710@gmail.com
+- LinkedIn: www.linkedin.com/in/luis-rocha1710
